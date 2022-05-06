@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Sanskar Technolab</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- CSS files -->
+        <link rel="stylesheet" href="./assets/css/bootstrap.css">
+        <link rel="stylesheet" href="./assets/css/style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+         <!-- Fav Icons -->
+        <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
+        
+        <!-- fontawesome -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+       <header>
+            <!-- <img class="bg-shadow" src="./assets/images/front_shadow.png"> -->
+        <nav class="navbar">
+            <a class="" href="index.html">
+                <img class="img-fluid" src="./assets/images/sanskar-logo-white.svg" alt="">
+              </a>
+              <a href="#" class="btn btn-primary float-end">start a project</a>
+         </nav>
+         <div class="row header-row">
+            <div class="col col-lg-8 col-md-6 col-sm-12 text-white my-auto">
+                <div class="header-content ">
+                    <h3>GET ACCESS TO RELIABLE<h3>
+                    <h1>ServiceNow agency!</h1>
+                    <p class="p-inner text-justify">Choosing an appropriate ServiceNow agency is critical to your business success and a positive working relationship. Sanskar Technolabs is a dependable Certified ServiceNow Partner with a sole focus on ServiceNow.</p>
+                    <a href="#" class="btn btn-primary fw-bold p-3 mt-3">Avail 20 hours risk free trial </a>
+                </div>
+            </div>
+            <div class="col col-lg-4 col-md-6 col-sm-12">
+                <div class="bg-white form-group">
+                    <input class="input-control" type="text" placeholder="Your Full Name*">
+                    <input class="input-control" type="text" placeholder="Phone*">
+                    <input class="input-control" type="text" placeholder="Email*">
+                    <input class="input-control" type="text" placeholder="Company*">
+                    <textarea class="input-control form-control" rows="4" placeholder="Message*"></textarea>
+                    <a href="#" class="btn btn-primary form-btn">Get your free quote now!</a>
+                </div>
+            </div>
+          </div>
+       </header>
+       
+       <!-- section-2 -->
+
+       <section class="container">
+           <div class="section-2 section-white">
+            <h1>
+                Let’s build cost-effective future<br>
+                workflows with Sanskar! 
+            </h1>
+            <p>Sanskar is a global leader in ServiceNow Implementation Services, assisting clients in getting the most out of the Now Platform.</p>
+            <p>We are a specialist ServiceNow Partner and have helped several top companies in efficiently implementing their services and workflows into the Now Platform with top-notch user experience.</p>
+            <p>Our competence, solid onshore/offshore model, adaptability, and expertise enable Sanskar to help our customers succeed in a competitive market.</p>
+            </p>
+            <img class="img-fluid p-5 ml-5" src="./assets/images/workflow.png">
+           </div>
+       </section>
+
+       <!-- section-3 -->
+       <section class="section-3 container-fluid">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 p-5">
+                <img class="img-fluid section-3-img" src="./assets/images/table3.jpg">
+            </div>
+            <div class="col col-lg-6 col-md-6 col-sm-12 section-white text-white my-auto text-start">
+                <h2 class="display-3 fw-bold">Would you like to ease your business<br>
+                    processes with ServiceNow? </h2>
+                <p class="fw-normal w-100 lh-base text-white p-0 text-start">If yes, then connect with our ServiceNow specialists super soon! </p>
+                <a href="#" class="btn btn-primary fw-bold mt-5 px-5 py-3">Connect with us NOW!</a>
+            </div>
+          </div>
+       </section>
+
+       <!-- section-4 -->
+       <section class="section-4 ">
+        <!-- <div class="bg-text">service now</div> -->
+            <div class="row section-white">
+                <div class="col col-lg-6 col-md-6 col-sm-12 text-start">
+                        <h1>Hire your ServiceNow<br>
+                            developer in just one day! </h1>
+                        <div class="">
+                            <p class="p-0 text-start">Sanskar Technolabs' ServiceNow developers are experts in ITSM, ITOM, CSM, Asset Management, CMDB, Field Service Management, HR Service Delivery, and everything else that the NOW framework has to serve.</p>
+                            <p class="p-0 text-start">Our programmers will learn about your company's procedures and use them to improve your Service Automation processes. From the initial consultation to post-deployment assistance, we provide end-to-end services.</p>
+                        </div>
+                </div>
+                <div class="col col-lg-6 col-md-6 col-sm-12">
+                    <img class="img-fluid" src="./assets/images/table4.png">
+                    </div>
+                </div>
+            </div>
+       </section>
+
+       <!-- section-5 -->
+       <section class="section-5">
+           <div class="container section-white">
+                <div class="row">
+                    <h1>Why choose us?</h1>
+                    <p>Sanskar Technolabs' experts are well-versed in your business needs and can assist you in gaining competitive advantages over your competitors.</p> 
+                </div>
+                <img class="img-fluid mx-auto" src="./assets/images/board.svg" >
+                <div class="row p-5 m-5">
+                    <div class="col-lg-4 col-md-6 col-sm-12 ">
+                        <img class="img-fluid mx-auto pt-2" src="./assets/images/star.png" >
+                        <p class="p-5 vertical-line">10+ years of expertise in implementing ServiceNow solutions for a variety of industries.<br><br></p>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 ">
+                        <img class="img-fluid mx-auto" src="./assets/images/people.png" >
+                        <p class="p-5 vertical-line">Sanskar Technolabs has a team of qualified ServiceNow developers who have worked on a variety of ServiceNow projects.</p>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <img class="img-fluid mx-auto pt-2" src="./assets/images/social.png" >
+                        <p class="p-5">We will assist you with platform management by evaluating the health status, utilization, and privacy of the ecosystems.</p>
+                    </div>
+                </div>
+                <p class="px-5 mx-5">Our ServiceNow agency has worked with a range of ServiceNow technologies, allowing us to create scalable solutions and modernize business operations.</p>
+            </div>
+       </section>
+
+       <!-- section-6 -->
+       <section class="section-6">
+        <div class="container text-center">
+                <h1>Different business models<br>
+                we have for your convenience! </h1>
+                <div class="row card-row">
+                    <div class="col-lg-8 my-auto">
+                        <h3 class="text-start">Staff Augmentation</h3>
+                        <p>Most customers choose this option since it allows them to have direct and transparent communication with the person working on the project and gives them complete control over the production process. Customers can hire dedicated developers from us on a monthly basis fee for each developer. </p>
+                    </div>
+                    <div class="col-lg-4 mx-auto">
+                        <img src="./assets/images/img1.png">
+                    </div>
+                </div>
+                <div class="row card-row">
+                    <div class="col-lg-4 mx-auto">
+                        <img src="./assets/images/img2.png">
+                    </div>
+                    <div class="col-lg-8 my-auto">
+                        <h3 class="text-start">Fix Cost</h3>
+                        <p>If you have a project with clear and well- structured requirements, then Fixed Price Model is for you, where you have to pay a decided amount or fixed price for the entire project.</p>
+
+                        <p>The benefit of a fixed price model is that it requires minimum supervision from your side. We will take care of all the aspects of the development process, project management, quality analysis, and assurance care. </p>
+                    </div>
+                </div>
+                <div class="row card-row">
+                    <div class="col-lg-8 my-auto">
+                        <h3 class="text-start">Hourly model</h3>
+                        <p>The hourly approach is ideal for clients with long-term projects where requirements change frequently and the scope of the project is unclear. This model provides you with the most flexibility by allowing you to adjust project specs at any moment. This model will save both the time & money because of its flexibility. </p>
+                    </div>
+                    <div class="col-lg-4 mx-auto">
+                        <img src="./assets/images/img3.png">
+                    </div>
+                </div>    
+        </div>
+    </section>
+
+     <!-- section-6 -->
+     <div class="section-6">
+        <h1 class="text-center m-5">Our Happy Clients</h1>
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+                <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></li>
+                <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></li>
+            </ol>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <div class="container mt-5 text-white d-block">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                  <h3 class="card-title">⭐⭐⭐⭐⭐</h3>
+                                  <h3>Excellent Provide service in here</h3>
+                                  <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita modi placeat illum ut sit praesentium velit minima corrupti aliquam </p>
+                                    <div class="profile float-start"></div>
+                                    <div>
+                                        <p>John doe</p>
+                                        <h4>Executive director at Zooq</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                  <h3 class="card-title">⭐⭐⭐⭐⭐</h3>
+                                  <h3>Excellent Provide service in here</h3>
+                                  <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita modi placeat illum ut sit praesentium velit minima corrupti aliquam </p>
+                                    <div class="profile float-start"></div>
+                                    <div>
+                                        <p>John doe</p>
+                                        <h4>Executive director at Zooq</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                  <h3 class="card-title">⭐⭐⭐⭐⭐</h3>
+                                  <h3>Excellent Provide service in here</h3>
+                                  <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita modi placeat illum ut sit praesentium velit minima corrupti aliquam </p>
+                                    <div class="profile float-start"></div>
+                                    <div>
+                                        <p>John doe</p>
+                                        <h4>Executive director at Zooq</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="container mt-5 text-white d-block">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                  <h3 class="card-title">⭐⭐⭐⭐⭐</h3>
+                                  <h3>Excellent Provide service in here</h3>
+                                  <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita modi placeat illum ut sit praesentium velit minima corrupti aliquam </p>
+                                    <div class="profile float-start"></div>
+                                    <div>
+                                        <p>John doe</p>
+                                        <h4>Executive director at Zooq</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                  <h3 class="card-title">⭐⭐⭐⭐⭐</h3>
+                                  <h3>Excellent Provide service in here</h3>
+                                  <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita modi placeat illum ut sit praesentium velit minima corrupti aliquam </p>
+                                    <div class="profile float-start"></div>
+                                    <div>
+                                        <p>John doe</p>
+                                        <h4>Executive director at Zooq</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                  <h3 class="card-title">⭐⭐⭐⭐⭐</h3>
+                                  <h3>Excellent Provide service in here</h3>
+                                  <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita modi placeat illum ut sit praesentium velit minima corrupti aliquam </p>
+                                    <div class="profile float-start"></div>
+                                    <div>
+                                        <p>John doe</p>
+                                        <h4>Executive director at Zooq</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="container mt-5 text-white d-block">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                  <h3 class="card-title">⭐⭐⭐⭐⭐</h3>
+                                  <h3>Excellent Provide service in here</h3>
+                                  <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita modi placeat illum ut sit praesentium velit minima corrupti aliquam </p>
+                                    <div class="profile float-start"></div>
+                                    <div>
+                                        <p>John doe</p>
+                                        <h4>Executive director at Zooq</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                  <h3 class="card-title">⭐⭐⭐⭐⭐</h3>
+                                  <h3>Excellent Provide service in here</h3>
+                                  <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita modi placeat illum ut sit praesentium velit minima corrupti aliquam </p>
+                                    <div class="profile float-start"></div>
+                                    <div>
+                                        <p>John doe</p>
+                                        <h4>Executive director at Zooq</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                  <h3 class="card-title">⭐⭐⭐⭐⭐</h3>
+                                  <h3>Excellent Provide service in here</h3>
+                                  <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita modi placeat illum ut sit praesentium velit minima corrupti aliquam </p>
+                                    <div class="profile float-start"></div>
+                                    <div>
+                                        <p>John doe</p>
+                                        <h4>Executive director at Zooq</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" ></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+              <span class="carousel-control-next-icon" ></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+    </div> 
+
+       <!-- section-7 -->
+
+       <section class="section-7">
+            <div class="row header-row">
+                <div class="col col-lg-8 col-md-6 col-sm-12 text-white">
+                    <div class="header-content section-white m-0 text-start ">
+                        <img class="img-fluid" src="./assets/images/airplane.png">
+                        <h2 class="display-3 fw-bold">Let us Help You in Taking Your<br>
+                            Business to Next Level! </h2>
+                        <p class="fw-normal w-75 lh-base text-white p-0 text-start">Sanskar has a huge team of like-minded ServiceNow developers to manage all your business needs with utmost quality at affordable rates.</p>
+                    </div>
+                </div>
+                <div class="col col-lg-4 col-md-6 col-sm-12">
+                    <div class="bg-white form-group">
+                        <input class="input-control" type="text" placeholder="Your Full Name*">
+                        <input class="input-control" type="text" placeholder="Phone*">
+                        <input class="input-control" type="text" placeholder="Email*">
+                        <input class="input-control" type="text" placeholder="Company*">
+                        <textarea class="input-control form-control" rows="4" placeholder="Message*"></textarea>
+                        <a href="#" class="btn btn-primary form-btn">Get your free quote now!</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer>
+            <div class="footer-a fw-bold container-fluid">
+                <img class="m-4 img-fluid" src="./assets/images/logo-blue.svg"><br>
+                <a> Web Design </a> | <a> Web Development </a> | <a> CRM </a>  | <a> ERP </a> | <a> Ecommerce Services </a><br>
+                <a> Shopify Developers </a> | <a> Magento Developers </a> | <a> Woo Commerce Developers </a>  | <a> E-commerce Mobile App Developers </a> | <a> Drupal Developers </a>
+                <hr class="style1 m-4 mx-auto">
+            </div>
+            <span class="footer-a">
+                V-Arcade, 3rd Floor, Near Rajkot Nagrik Bank, M.G.Road, Junagadh. (Gujarat-India)
+                <a><i class="fa fa-envelope-o m-2 fw-bold" aria-hidden="true"></i>support@vedika.tech</a>
+                <a><i class="fa fa-phone m-2" aria-hidden="true"></i>+91  76006 56442</a>
+            </span>
+                  <div class="text-white mt-4">
+                     <a class="btn-floating fa-social m-4" href="#"><i class="fa fa-facebook-f"></i></a>
+                     <a class="btn-floating fa-social m-4" href="#"><i class="fa fa-instagram "></i></a>
+                     <a class="btn-floating fa-social m-4" href="#"><i class="fa fa-twitter "></i></a>
+                  </div>
+        </footer>
+        <!-- Copyright -->
+        <div class="copyright">
+            Copyright 2022 sanskartechnolab
+          </div>
+          <!-- Copyright -->
+        
+    </body>
+</html>
